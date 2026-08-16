@@ -1,1 +1,13 @@
-1
+{
+  "response": [
+    {
+      "datetime": 1755295200,
+      "filename": "Lunaris-AOSP-mondrian-Community-3.12-GMS-2026081523.zip",
+      "id": "d25d944f0b297a9676f437e925b86c4faba05a9d7eed8283da72a67c0b9a09be",
+      "romtype": "Community",
+      "size": 3539286780,
+      "url": "https://github.com/LF52406/Universal-OTA/releases/download/v3.12/Lunaris-AOSP-mondrian-Community-3.12-GMS-2026081523.zip",
+      "version": "3.12"
+    }
+  ]
+}
